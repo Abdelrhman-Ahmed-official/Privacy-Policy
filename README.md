@@ -91,6 +91,6 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 ## 10. Contact Us
 
-**Developer:** Abdelrhman Ahmed
-**Location:** Egypt
+**Developer:** Abdelrhman Ahmed 
+**Location:** Egypt 
 **Email:** synapselabssupport@gmail.com
